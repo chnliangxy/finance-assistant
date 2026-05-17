@@ -120,7 +120,3 @@ Backend syntax check example:
 ```bash
 node -c backend/server.js
 ```
-
-## License
-
-No license has been specified yet.
