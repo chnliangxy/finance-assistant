@@ -120,7 +120,3 @@ npm run build
 ```bash
 node -c backend/server.js
 ```
-
-## 许可证
-
-暂未指定许可证。
